@@ -9,9 +9,9 @@
     "forward",
     "bot"
   ],
-  "success_url": "https://github.com/kckhais/KC-Forward-v2.1-Bot",
-  "website": "https://github.com/kckhais/KC-Forward-v2.1-Bot",
-  "repository": "https://github.com/kckhais/KC-Forward-v2.1-Bot",
+  "success_url": "https://github.com/ankitmeena01/KC-Forward-v2.1-Bot",
+  "website": "https://github.com/ankitmeena01/KC-Forward-v2.1-Bot",
+  "repository": "https://github.com/ankitmeena01/KC-Forward-v2.1-Bot",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGSBot",
